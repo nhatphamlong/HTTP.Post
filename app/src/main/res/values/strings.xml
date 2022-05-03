@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HTTP.Post</string>
+    <string name="title_enter_post" />
+    <string name="hint_title"> HTTP DEMO </string>
+    <string name="hint_body" />
+    <string name="action_submit" />
+    <string name="enter_your_username">Username</string>
+    <string name="enter_your_password">Password</string>
+    <string name="button_post">Post data</string>
+</resources>
